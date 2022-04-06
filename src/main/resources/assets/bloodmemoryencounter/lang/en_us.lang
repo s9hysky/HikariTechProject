@@ -1,0 +1,71 @@
+#PARSE_ESCAPES
+#tabs
+itemGroup.ideallandMiscTab=IDL Hall
+
+generator.TYPE_ONE=Type One;
+generator.TYPE_TWO=Type Two;
+
+#config
+configgui.idealland.category.Menu0.GeneralConf=General Config
+idealland.conf.general.welcome=Welcome Message Key
+
+#Enchantments
+enchantment.bloodmemoryencounter.test_enchantment=TestEnchantment
+
+#Messages
+idealland.moroon_incoming_herald=[IDL][Warn] The Moroon are interested in your fights.
+idealland.msg.notice_meter_report=[IDL] Moroon notice value: %d, invasion: %d/%d, error:%d
+
+#Potions
+idealland.potion.deadly=Deadly
+idealland.potion.zen_heart=Countless Virtue
+
+
+#Entities
+entity.moroon_tainter.name=Moroon Pathfinder
+
+#Blocks
+tile.blood_block.name=Blood Block
+tile.blood_ore.name=Blood Ore
+
+#Items
+idealland.food.shared.xp_desc=Grants XP: %d
+idealland.gua_enhance_no_free.desc=Use anvil to socket Gua(Elemental)
+idealland.gua_enhance_free.desc=Free Gua Sockets(Direct craft): %d
+
+idealland.gua_enhance_total.desc=Gua Enhance Total: %d
+idealland.shared.press_shift=Hold SHIFT to examine info.
+
+fading.duration.desc=Vanishes after %d seconds
+
+item.blood_ingot.name=Blood Ingot
+
+#Skills
+idealland.skill.shared.cool_down_desc=Cooldown: %.1fs
+idealland.skill.shared.power_desc=Damage: %.1f
+idealland.skill.shared.range_desc=Radius: %.1f block
+idealland.skill.shared.duration_desc=Duration: %.1fs
+idealland.skill.shared.error_desc=Error: +-%d
+idealland.skill.shared.level_desc=Level: %d/%d
+idealland.skill.shared.name_format=%s
+idealland.skill.shared.name_format_with_lv=%s Lv.%s %s
+idealland.skill.shared.lv_max=[MAX]
+
+idealland.gua_enhance_list.desc=Earth %s Thunder %s\nWater %s Mountain %s\nLake %s Fire %s\nWind%s Sky%s
+idealland.gua_not_applicable.desc=-
+
+idealland.kill_count.desc=Kills: %d
+
+idealland.skill.msg.cool_down=Cooling Down.
+
+#Death
+#examples
+#death.fell.accident.ladder=%1$s fell off a ladder
+#death.fell.accident.vines=%1$s fell off some vines
+#death.fell.accident.water=%1$s fell out of the water
+#death.fell.accident.generic=%1$s fell from a high place
+#death.fell.killer=%1$s was doomed to fall
+#death.fell.assist=%1$s was doomed to fall by %2$s
+#death.fell.assist.item=%1$s was doomed to fall by %2$s using %3$s
+#death.fell.finish=%1$s fell too far and was finished by %2$s
+#death.fell.finish.item=%1$s fell too far and was finished by %2$s using %3$s
