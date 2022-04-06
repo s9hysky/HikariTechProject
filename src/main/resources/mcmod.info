@@ -1,14 +1,14 @@
 [
 {
-  "modid": "s9_test_001",
-  "name": "test1",
-  "description": "rrkrrkrrrrrrr",
-  "version": "${version}",
+  "modid": "bloodmemoryencounter",
+  "name": "Blood Memory Encounter",
+  "description": "First Story of Blood Memory",
+  "version": "0.01.1.01",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["s9hy_sky"],
-  "credits": "RakuwakoVampire",
+  "authorList": ["RakuwakoVampire"],
+  "credits": "s9hy_sky",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
