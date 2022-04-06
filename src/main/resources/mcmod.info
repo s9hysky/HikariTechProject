@@ -1,0 +1,16 @@
+[
+{
+  "modid": "s9_test_001",
+  "name": "test1",
+  "description": "rrkrrkrrrrrrr",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["s9hy_sky"],
+  "credits": "RakuwakoVampire",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
