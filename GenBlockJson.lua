@@ -59,10 +59,10 @@ local function GenItem(_typeName, _itemName)
 	outFile:close();
 end
 
- GenItem("misc", "limpid_crystal");
+-- GenItem("misc", "limpid_crystal");
 
 
- GenBlock("limpid_crystal_ore");
+ GenBlock("limpid_crystal_block");
 
 -- GenItem("misc", "nano_mender_greater");
 -- GenItem("misc", "package_fade_armor_diamond");

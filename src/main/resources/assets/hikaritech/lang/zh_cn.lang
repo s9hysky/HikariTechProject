@@ -22,6 +22,7 @@ entity.moroon_tainter.name=摩隆 拓荒者
 
 #Blocks
 tile.limpid_crystal_ore.name=澄澈水晶矿石
+tile.limpid_crystal_block.name=澄澈水晶块
 
 #Items
 item.limpid_crystal.name=澄澈水晶

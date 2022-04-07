@@ -26,6 +26,7 @@ entity.moroon_tainter.name=Moroon Pathfinder
 
 #Blocks
 tile.limpid_crystal_ore.name=Limpid Crystal Ore
+tile.limpid_crystal_block.name=Limpid Crystal Block
 
 #Items
 item.limpid_crystal.name=Limpid Crystal
