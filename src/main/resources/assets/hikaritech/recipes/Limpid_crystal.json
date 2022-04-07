@@ -1,0 +1,12 @@
+{
+    "type": "forge:ore_shapeless",
+    "ingredients": [
+        [
+            {"item": "hikaritech:limpid_crystal_block"}
+        ]
+    ],
+    "result": {
+      "item": "hikaritech:limpid_crystal",
+      "count": 1
+    }
+}

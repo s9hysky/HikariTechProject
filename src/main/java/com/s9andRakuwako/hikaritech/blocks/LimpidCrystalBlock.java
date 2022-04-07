@@ -32,10 +32,11 @@ public class LimpidCrystalBlock extends BlockBase {
         return BlockRenderLayer.TRANSLUCENT;
     }
     @Override
-    public boolean isFullCube(IBlockState state)
-    {
+    public boolean isFullCube(IBlockState state) {
         return false;
     }
     @Override
-    public boolean isOpaqueCube(IBlockState state) { return false; }
+    public boolean isOpaqueCube(IBlockState state) {
+        return false;
+    }
 }
