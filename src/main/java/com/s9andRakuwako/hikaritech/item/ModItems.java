@@ -9,7 +9,7 @@ public class ModItems {
 
 	public static final List<Item> ITEMS = new ArrayList<Item>();
 
-	public static final Item BLOOD_INGOT = new ItemBase("blood_ingot");
+	public static final Item LIMPID_CRYSTAL = new ItemBase("limpid_crystal");
 
 	//Basic
 	//public static final Item PAPER_BLOOD = new ItemBase("paper_blood");

@@ -20,22 +20,11 @@ idealland.potion.zen_heart=功德无量
 
 entity.moroon_tainter.name=摩隆 拓荒者
 
-# Blocks
-tile.blood_block.name=浸血金属块
-tile.blood_ore.name=浸血矿石
+#Blocks
+tile.limpid_crystal_ore.name=澄澈水晶矿石
 
-idealland.food.shared.xp_desc=含有经验: %d
-# Items
-idealland.gua_enhance_no_free.desc=可用铁砧镶嵌卦象
-idealland.gua_enhance_free.desc=徒手卦象镶嵌槽: %d
-
-# Items
-idealland.gua_enhance_total.desc=卦象强化: %d
-idealland.shared.press_shift=长按SHIFT查看详情
-
-fading.duration.desc=%d 秒后消失。
-
-item.blood_ingot.name=浸血金属锭
+#Items
+item.limpid_crystal.name=澄澈水晶
 
 idealland.skill.shared.cool_down_desc=冷却: %.1f秒
 idealland.skill.shared.power_desc=伤害: %.1f

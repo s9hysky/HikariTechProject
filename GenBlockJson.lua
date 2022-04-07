@@ -1,5 +1,5 @@
 local outFile = nil;
-local modName = "bloodmemoryencounter";
+local modName = "hikaritech";
 local blockName = "grid_normal";
 
 local function GenModelBlockItem()
@@ -59,10 +59,10 @@ local function GenItem(_typeName, _itemName)
 	outFile:close();
 end
 
--- GenItem("misc", "test_item");
+ GenItem("misc", "limpid_crystal");
 
 
- GenBlock("blood_ore");
+ GenBlock("limpid_crystal_ore");
 
 -- GenItem("misc", "nano_mender_greater");
 -- GenItem("misc", "package_fade_armor_diamond");

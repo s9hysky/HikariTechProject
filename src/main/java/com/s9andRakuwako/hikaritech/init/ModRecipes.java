@@ -21,9 +21,9 @@ public class ModRecipes {
 //				new ItemStack(ModItems.WEAPON_PEARL),
 //				0.1f);
 
-		GameRegistry.addSmelting(ModBlocks.BLOOD_ORE,
-				new ItemStack(ModItems.BLOOD_INGOT),
-				0.1f);
+//		GameRegistry.addSmelting(ModBlocks.BLOOD_ORE,
+//				new ItemStack(ModItems.BLOOD_INGOT),
+//				0.1f);
 
 	}
 	
