@@ -9,7 +9,7 @@ import java.util.List;
 public class ModBlocks {
 	public static final List<Block> BLOCKS = new ArrayList<Block>();
 
-	public static final Block LIMPID_CRYSTAL_ORE = new BlockBase("limpid_crystal_ore", Material.ROCK);
+	public static final Block LIMPID_CRYSTAL_ORE = new LimpidCrystalOre("limpid_crystal_ore", Material.ROCK);
 
 	/*
 	 * To add a block, put a line here,
