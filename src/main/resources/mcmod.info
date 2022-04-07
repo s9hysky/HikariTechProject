@@ -1,14 +1,14 @@
 [
 {
-  "modid": "bloodmemoryencounter",
-  "name": "Blood Memory Encounter",
-  "description": "First Story of Blood Memory",
+  "modid": "hikaritech",
+  "name": "Hikari Tech",
+  "description": "A Mod about Hikari and Light Energy",
   "version": "0.01.1.01",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["RakuwakoVampire"],
-  "credits": "s9hy_sky",
+  "authorList": ["s9hy_sky","RakuwakoVampire"],
+  "credits": "Minecraft Forge 1.12.2",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
