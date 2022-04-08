@@ -11,6 +11,7 @@ import com.s9andRakuwako.hikaritech.network.NetworkHandler;
 import com.s9andRakuwako.hikaritech.proxy.ProxyBase;
 import com.s9andRakuwako.hikaritech.util.CommonDef;
 import com.s9andRakuwako.hikaritech.util.Reference;
+import com.s9andRakuwako.hikaritech.worldgen.WorldLimpidCrystal;
 import net.minecraftforge.fml.common.Loader;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
@@ -19,6 +20,7 @@ import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLServerStartingEvent;
+import net.minecraftforge.fml.common.registry.GameRegistry;
 import org.apache.logging.log4j.Logger;
 
 import static com.s9andRakuwako.hikaritech.init.RegistryHandler.initRegistries;
@@ -59,6 +61,7 @@ public class IdlFramework {
 
         RegistryHandler.preInitRegistries(event);
 
+        GameRegistry.registerWorldGenerator(new WorldLimpidCrystal(),100);
     }
 
     @EventHandler
