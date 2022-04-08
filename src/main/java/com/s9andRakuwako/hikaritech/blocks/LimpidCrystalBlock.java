@@ -19,7 +19,6 @@ public class LimpidCrystalBlock extends BlockBase {
         this.setHardness(2.5F);
         this.setSoundType(SoundType.STONE);
         this.setHarvestLevel("pickaxe",2);
-        this.setLightOpacity(0);
     }
     @Nonnull
     @Override

@@ -29,7 +29,7 @@ public class BlockBase extends Block implements IHasModel
 		//setResistance(1000.0F);
 		//setHarvestLevel("pickaxe", 1);
 		//setLightLevel(1f);
-		setLightOpacity(15);
+		//setLightOpacity(15);
 	}
 
 	@Override
